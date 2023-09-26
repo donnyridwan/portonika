@@ -2,7 +2,7 @@ import React from "react";
 import ListProject from "./list-project";
 
 export const metadata = {
-  title: "Projects | Ulinnaja Aldi",
+  title: "Projects | Ardhian Nika Cahyani",
   description: "Projects page of Aldilla Ulinnaja portfolio website",
 };
 

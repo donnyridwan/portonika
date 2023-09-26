@@ -40,7 +40,7 @@ export default function Experience() {
           data-aos-duration="300"
           data-aos-once="true"
         >
-          My Experience
+          My Experience (Mana saya tau ye kan pengalaman dia)
         </h1>
         <div
           className="h-[1px] w-32 bg-primary md:w-96"

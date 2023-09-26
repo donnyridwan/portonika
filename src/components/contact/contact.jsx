@@ -8,27 +8,27 @@ export default function Contact() {
     {
       name: "Tiktok",
       icon: <TbBrandTiktok size={20} />,
-      link: "https://www.tiktok.com/@ulinnaja.code",
+      link: "",
     },
     {
       name: "Github",
       icon: <FiGithub size={20} />,
-      link: "https://github.com/ulinnajaaldi",
+      link: "",
     },
     {
       name: "Instagram",
       icon: <FiInstagram size={20} />,
-      link: "https://www.instagram.com/ulinnaja.aldi/",
+      link: "https://www.instagram.com/ardhiannikaa/",
     },
     {
       name: "Telegram",
       icon: <TbBrandTelegram size={20} />,
-      link: "https://t.me/ulinnajaah",
+      link: "",
     },
     {
       name: "Linkedin",
       icon: <FiLinkedin size={20} />,
-      link: "https://www.linkedin.com/in/ulinnaja-aldi/",
+      link: "",
     },
   ];
   return (
@@ -68,7 +68,7 @@ export default function Contact() {
               className="writ px-2 py-3 font-mono text-xs tracking-[0.075em] text-primary transition-all duration-300 hover:-translate-y-1 hover:text-accent"
               style={{ writingMode: "vertical-rl" }}
             >
-              ulinnajaaldi24@gmail.com
+              emailnika@gmail.com
             </a>
           </div>
           <div className="mt-4 h-20 w-[1px] bg-primary"></div>
